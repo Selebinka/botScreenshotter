@@ -15,6 +15,6 @@ Use *pip install -r requirements.txt* to install
 
 
 # Command
-* */star*  - greeting
+* */start*  - greeting
 * */help* - returns extended info
 * */getscreenshot [your link]* - returns screenshot from link
